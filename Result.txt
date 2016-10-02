@@ -1,0 +1,5 @@
+Ship1	Gamorr	0	Tatooine	40
+Ship1	Tatooine	44	Corellia	48
+Ship1	Corellia	52	Yaga Minor	64
+Ship1	Yaga Minor	68	Wayland	98
+Ship1	Wayland	102	Myrkr	123

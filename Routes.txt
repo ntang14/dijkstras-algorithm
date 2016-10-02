@@ -1,0 +1,58 @@
+Ship1	Gamorr	0	Tatooine	40
+Ship1	Tatooine	44	Corellia	48
+Ship1	Corellia	52	Yaga Minor	64
+Ship1	Yaga Minor	68	Wayland	98
+Ship1	Wayland	102	Myrkr	123
+Ship2	Myrkr	0	Wayland	21
+Ship2	Wayland	25	Yaga Minor	55
+Ship2	Yaga Minor	59	Corellia	71
+Ship2	Corellia	75	Tatooine	79
+Ship2	Tatooine	83	Gamorr	123
+Ship3	Kashyyyk	0	Corellia	36
+Ship3	Corellia	75	Kashyyyk	111
+Ship4	Ralltiir	0	Rhinnal	1
+Ship4	Rhinnal	5	Esseles	7
+Ship4	Esseles	11	Corulag	15
+Ship4	Corulag	19	Brentaal	21
+Ship4	Brentaal	25	Chandrila	26
+Ship4	Chandrila	30	Coruscant	35
+Ship4	Coruscant	39	Corellia	43
+Ship4	Corellia	75	Coruscant	79
+Ship4	Coruscant	83	Chandrila	88
+Ship4	Chandrila	92	Brentaal	93
+Ship4	Brentaal	97	Corulag	99
+Ship4	Corulag	103	Esseles	107
+Ship4	Esseles	111	Rhinnal	113
+Ship4	Rhinnal	117	Ralltiir	118
+Ship5	Hapes Cluster	0	Bakura	11
+Ship5	Bakura	15	Mon Calamari	37
+Ship5	Mon Calamari	41	Corellia	47
+Ship5	Corellia	75	Mon Calamari	81
+Ship5	Mon Calamari	85	Bakura	107
+Ship5	Bakura	111	Hapes Cluster	122
+Ship6	Corporate Sector	0	Kessel	9
+Ship6	Kessel	13	Mon Calamari	22
+Ship6	Mon Calamari	26	Kessel	35
+Ship6	Kessel	39	Corporate Sector	48
+Ship6	Corporate Sector	52	Kessel	61
+Ship6	Kessel	65	Mon Calamari	74
+Ship6	Mon Calamari	85	Kessel	94
+Ship6	Kessel	98	Corporate Sector	107
+Ship7	Dagobah	0	Corellia	31
+Ship7	Corellia	75	Dagobah	106
+Ship8	Hoth	0	Bespin	4
+Ship8	Bespin	8	Alderaan	16
+Ship8	Alderaan	20	Yavin	25
+Ship8	Yavin	29	Corellia	44
+Ship8	Corellia	75	Yavin	90
+Ship8	Yavin	94	Alderaan	99
+Ship8	Alderaan	103	Bespin	111
+Ship8	Bespin	115	Hoth	119
+Ship9	Endor	0	Dantooine	21
+Ship9	Dantooine	25	Corellia	37
+Ship9	Corellia	75	Dantooine	87
+Ship9	Dantooine	91	Endor	112
+Ship10	Sullust	0	Corellia	19
+Ship10	Corellia	23	Sullust	42
+Ship10	Sullust	46	Corellia	65
+Ship10	Corellia	75	Sullust	94
